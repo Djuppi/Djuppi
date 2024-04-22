@@ -1,3 +1,21 @@
-.table-wrapper {
-  overflow-x: scroll;
+.timeline {
+    white-space: nowrap;
+    overflow-x: scroll;
+    padding: 20px;
+    width: 100%;
+}
+.timeline li {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+.timeline li:last-child {
+    margin-right: 0;
+}
+.timeline time {
+    display: block;
+    color: #888;
+    font-size: 12px;
 }
