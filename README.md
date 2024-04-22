@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My name is Aske Ammentorp, in tech known as Djuppi!
+
 <!--
 **Djuppi/Djuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
