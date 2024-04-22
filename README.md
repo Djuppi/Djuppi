@@ -8,12 +8,7 @@ I'm a web developer located in Oslo, currently working at Satvision.no.
 <html>
 
 <div class="container-fluid blue-bg">
-  <div class="container"><h2 style="padding-bottom: 30px; padding-top:-20px;">Vertical Left-Right Timeline</h2>
-    <!--first section-->
-    <div class="row align-items-center how-it-works">
-      <div class="col-2 text-center bottom">
-        <div class="circle">1</div>
-      </div>
+  <div class="container"><h2 style="padding-bottom: 30px; padding-top:-20px;">Vertical Left-Right Timeline</h2><div class="row align-items-center how-it-works"><div class="col-2 text-center bottom"><div class="circle">1</div></div>
       <div class="col-6">
         <h5>Fully Responsive</h5>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor gravida aliquam. Morbi orci urna, iaculis in ligula et, posuere interdum lectus.</p>
