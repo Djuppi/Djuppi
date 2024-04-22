@@ -12,6 +12,10 @@ body {
   height: 100%;
 }
 
+.container h2 {
+  color: red;
+}
+
 .circle {
   font-weight: bold;
   padding: 15px 20px;
