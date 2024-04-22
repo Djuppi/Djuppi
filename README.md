@@ -7,8 +7,8 @@
 I'm a web developer located in Oslo, currently working at Satvision.no.
 <html>
 
-<div class="line">
- 
+<div>
+ <img src="timeline.svg" width="100%" height="auto" alt="css-in-readme">
 </div>
 </html>
 
