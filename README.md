@@ -9,7 +9,17 @@ I'm a web developer located in Oslo, currently working at Satvision.no.
 
 <div class="container-fluid blue-bg">
   <div class="container">
-    <h2>Timeline</h2>
+     <div class="row timeline">
+      <div class="col-2">
+        <div class="corner top-right"></div>
+      </div>
+      <div class="col-8">
+        <hr/>
+      </div>
+      <div class="col-2">
+        <div class="corner left-bottom"></div>
+      </div>
+    </div>
   </div>
 </div>
 </html>
