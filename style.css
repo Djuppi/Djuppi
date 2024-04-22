@@ -3,6 +3,7 @@
     overflow-x: scroll;
     padding: 20px;
     width: 100%;
+    display: inline-flex;
 }
 .timeline li {
     display: inline-block;
