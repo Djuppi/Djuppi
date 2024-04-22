@@ -6,8 +6,26 @@
 
 I'm a web developer located in Oslo, currently working at Satvision.no.
 
-<div style="color: red">
-  <h1>Hi</h1>
+<div class="table-wrapper">
+  <ul class="timeline">
+        <li>
+            <time>2022-01-01</time>
+            <p>Event 1</p>
+        </li>
+     <li>
+            <time>2022-01-01</time>
+            <p>Event 1</p>
+        </li>
+     <li>
+            <time>2022-01-01</time>
+            <p>Event 1</p>
+        </li>
+     <li>
+            <time>2022-01-01</time>
+            <p>Event 1</p>
+        </li>
+        <!-- Add more list items as needed -->
+    </ul>
 </div>
 
 <!--
