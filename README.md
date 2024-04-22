@@ -9,6 +9,7 @@ I'm a web developer located in Oslo, currently working at Satvision.no.
 
 <div class="container-fluid blue-bg">
   <div class="container">
+    <h2></h2>
     <h2 class="pb-3 pt-2">Vertical Left-Right Timeline</h2>
     <div class="row align-items-center how-it-works">
       <div class="col-2 text-center bottom">
