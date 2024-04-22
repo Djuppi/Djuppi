@@ -1,6 +1,14 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:a96f44,100:f2ecb6&height=300&section=header&text=Hi%20there,%-nl-&desc=I'm%20Djuppi&fontSize=80&fontAlignY=35&rotate=19&descSize=70&&descAlignY=70)
+
 ### Hi there 👋
 
 ## My name is Aske Ammentorp, in tech known as Djuppi!
+
+I'm a web developer located in Oslo, currently working at Satvision.no.
+
+<div style="color: red">
+  <h1>Hi</h1>
+</div>
 
 <!--
 **Djuppi/Djuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
