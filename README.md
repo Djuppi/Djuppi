@@ -8,7 +8,7 @@ I'm a web developer located in Oslo, currently working at Satvision.no.
 <html>
 
 <div class="container-fluid blue-bg">
-  <div class="container"><h2 class="pb-3 pt-2">Vertical Left-Right Timeline</h2>
+  <div class="container"><h2 style="padding-bottom: 30px; padding-top:-20px;">Vertical Left-Right Timeline</h2>
     <!--first section-->
     <div class="row align-items-center how-it-works">
       <div class="col-2 text-center bottom">
