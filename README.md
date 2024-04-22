@@ -10,7 +10,6 @@ I'm a web developer located in Oslo, currently working at Satvision.no.
 <div class="container-fluid blue-bg">
   <div class="container">
     <h2 class="pb-3 pt-2">Vertical Left-Right Timeline</h2>
-    <!--first section-->
     <div class="row align-items-center how-it-works">
       <div class="col-2 text-center bottom">
         <div class="circle">1</div>
@@ -20,7 +19,6 @@ I'm a web developer located in Oslo, currently working at Satvision.no.
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor gravida aliquam. Morbi orci urna, iaculis in ligula et, posuere interdum lectus.</p>
       </div>
     </div>
-    <!--path between 1-2-->
     <div class="row timeline">
       <div class="col-2">
         <div class="corner top-right"></div>
