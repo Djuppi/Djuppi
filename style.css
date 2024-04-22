@@ -16,7 +16,7 @@ body {
   color: red;
 }
 
-.circle {
+.container-fluid .container div div .circle {
   font-weight: bold;
   padding: 15px 20px;
   border-radius: 50%;
