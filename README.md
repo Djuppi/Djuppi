@@ -6,27 +6,26 @@
 
 I'm a web developer located in Oslo, currently working at Satvision.no.
 
-<div class="table-wrapper">
-  <ul class="timeline">
-        <li>
-            <time>2022-01-01</time>
-            <p>Event 1</p>
-        </li>
-     <li>
-            <time>2022-01-01</time>
-            <p>Event 1</p>
-        </li>
-     <li>
-            <time>2022-01-01</time>
-            <p>Event 1</p>
-        </li>
-     <li>
-            <time>2022-01-01</time>
-            <p>Event 1</p>
-        </li>
-        <!-- Add more list items as needed -->
-    </ul>
-</div>
+<div class="line"></div>
+<ul class="timeline">
+    <li>
+        <time>2022-01-01</time>
+        <p>Event 1</p>
+    </li>
+   <li>
+      <time>2022-01-01</time>
+      <p>Event 1</p>
+    </li>
+   <li>
+      <time>2022-01-01</time>
+      <p>Event 1</p>
+    </li>
+   <li>
+      <time>2022-01-01</time>
+      <p>Event 1</p>
+  </li>
+  <!-- Add more list items as needed -->
+</ul>
 
 <!--
 **Djuppi/Djuppi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
