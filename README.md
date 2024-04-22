@@ -5,12 +5,6 @@
 ## My name is Aske Ammentorp, in tech known as Djuppi!
 
 I'm a web developer located in Oslo, currently working at Satvision.no.
-<html>
-
-<div>
- <img src="timeline.svg" width="100%" height="auto" alt="css-in-readme">
-</div>
-</html>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djuppi&show_icons=true&theme=merko)
 
