@@ -12,7 +12,7 @@ body {
   height: 100%;
 }
 
-.container h2 {
+.container-fluid .container h2 {
   color: red;
 }
 
