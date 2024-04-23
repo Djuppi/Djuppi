@@ -12,7 +12,22 @@ As a developer I strive to write clean and understandable code, and exploring ne
 
 ##
 ### 🏢 My work timeline 
-
+<div class="timeline">
+  <svg>
+      <p>Academy</p>
+      <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
+  </svg>
+  <div class="line"></div>
+  <svg>
+      <p>Telia</p>
+      <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="blue" />
+  </svg>
+  <div class="line"></div>
+  <svg>
+      <!-- Add your SVG content here -->
+      <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="green" />
+  </svg>
+</div>
 ##
 
 ### 🧰 Languages, frameworks and tools
