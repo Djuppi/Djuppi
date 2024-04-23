@@ -15,7 +15,11 @@ As a developer I strive to write clean and understandable code, and exploring ne
 
 ![Project timeline](https://github.com/Djuppi/Djuppi/assets/54138148/054089fe-e80f-4c22-a8e3-150afc49f634)
 
-📎[CV - Aske - English.pdf](https://github.com/Djuppi/Djuppi/files/15074888/CV.-.Aske.-.English.pdf)
+#### 📃 Get my full resume
+
+<a href="https://github.com/Djuppi/Djuppi/files/15075163/CV.-.Aske.-.English.pdf">
+    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-Download-FC8EAC?style=for-the-badge&logo=download&logoColor=white"/></a>
+
 ##
 
 
@@ -45,9 +49,9 @@ Here are some of the technologies that I have worked with or are currently worki
 #     
 
 ### 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djuppi&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djuppi&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djuppi&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djuppi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔍 Find me on
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aske-djupnes-ammentorp/)
