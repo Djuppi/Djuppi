@@ -15,11 +15,6 @@ As a developer I strive to write clean and understandable code, and exploring ne
 
 ![Project timeline](https://github.com/Djuppi/Djuppi/assets/54138148/054089fe-e80f-4c22-a8e3-150afc49f634)
 
-#### 📃 Get my full resume
-
-<a href="https://github.com/Djuppi/Djuppi/files/15075163/CV.-.Aske.-.English.pdf">
-    <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/badge/-Download-FC8EAC?style=for-the-badge&logo=download&logoColor=white"/></a>
-
 ##
 
 
