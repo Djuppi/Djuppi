@@ -1,17 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:a96f44,100:f2ecb6&height=300&section=header&text=Hi%20there,%-nl-&desc=I'm%20Djuppi&fontSize=80&fontAlignY=35&rotate=19&descSize=70&&descAlignY=70)
+
+
+
+
+<img align="right" width="300" style="position:relative;" src=https://github.com/Djuppi/Djuppi/assets/54138148/b4a5fe2e-a2c4-4f05-a0ed-3d724857476f />
 
 ### Hi there 👋
 
-## My name is Aske Ammentorp, in tech known as Djuppi!
 
-I am 32 years old, originally from Copenhagen, Denmark, but I have been living in Oslo for the past 8 years. My Norwegian is close to fluent, and I just recently gained my Norwegian Citizenship. 
+ My name is Aske Ammentorp, in tech known as Djuppi!
+
+
+
+I am 32 years old, originally from Copenhagen, Denmark 🇩🇰, but I have been living in Oslo for the past 8 years. My Norwegian is close to fluent, and I just recently gained my Norwegian Citizenship 🇳🇴. 
 
 As a developer I strive to write clean and understandable code, and exploring new techniques and programming languages is something that motivates me a lot. 
 
+---
 
 
-- - -
+---
+
 ### 🧰 Languages, frameworks and tools
+Here are some of the technologies that I have worked with or are currently working with.
 
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
@@ -36,11 +46,12 @@ As a developer I strive to write clean and understandable code, and exploring ne
 #     
 
 ### 📈 Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djuppi&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djuppi&show_icons=true&theme=great-gatsby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djuppi&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djuppi&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔍 Find me on
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aske-djupnes-ammentorp/)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-
+Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
 
