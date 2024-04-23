@@ -1,24 +1,19 @@
-
-
-
-
 <img align="right" width="300" style="position:relative;" src=https://github.com/Djuppi/Djuppi/assets/54138148/b4a5fe2e-a2c4-4f05-a0ed-3d724857476f />
 
 ### Hi there 👋
 
-
- My name is Aske Ammentorp, in tech known as Djuppi!
-
-
+My name is Aske Ammentorp, in tech known as Djuppi!
 
 I am 32 years old, originally from Copenhagen, Denmark 🇩🇰, but I have been living in Oslo for the past 8 years. My Norwegian is close to fluent, and I just recently gained my Norwegian Citizenship 🇳🇴. 
 
+I'm currently employed as a fullstack web developer and TeamLead at Satvision, where I contribute to building innovative solutions for our clients.
+
 As a developer I strive to write clean and understandable code, and exploring new techniques and programming languages is something that motivates me a lot. 
 
----
+##
+### 🏢 My work timeline 
 
-
----
+##
 
 ### 🧰 Languages, frameworks and tools
 Here are some of the technologies that I have worked with or are currently working with.
