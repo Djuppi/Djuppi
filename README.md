@@ -4,7 +4,7 @@
 
 My name is Aske Ammentorp, in tech known as Djuppi!
 
-I am 32 years old, originally from Copenhagen, Denmark 🇩🇰, but I have been living in Oslo for the past 8 years. My Norwegian is close to fluent, and I just recently gained my Norwegian Citizenship 🇳🇴. 
+I am 33 years old, originally from Copenhagen, Denmark 🇩🇰, but I have been living in Oslo for the past 8 years. My Norwegian is close to fluent, and I just recently gained my Norwegian Citizenship 🇳🇴. 
 
 I'm currently employed as a fullstack web developer and TeamLead at Satvision, where I contribute to building innovative solutions for our clients.
 
